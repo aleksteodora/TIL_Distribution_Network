@@ -20,6 +20,12 @@ A full-stack platform for monitoring an electricity distribution network — bui
 
 ---
 
+## Preview
+
+![Application Dashboard](./additional/screenshot.png)
+
+---
+
 ## Architecture
 
 ```
@@ -81,6 +87,11 @@ A full-stack platform for monitoring an electricity distribution network — bui
 ---
 
 ## Database Setup
+
+The database setup is based on the official hackathon infrastructure provided by Sotex Lab.
+
+Follow the official setup instructions provided here:
+https://github.com/sotex-lab/hackathon_2026
 
 Run the migration scripts **in order** against your SQL Server instance:
 
@@ -195,6 +206,12 @@ Only substations with all 3 phases active and more than 50 readings are included
 - Microsoft SQL Server (MSSQL)
 
 ---
+
+## Presentation
+
+📊 Project presentation is included in the repository:
+
+👉 [`Download presentation`](./additional/presentation.pdf)
 
 ## License
 
