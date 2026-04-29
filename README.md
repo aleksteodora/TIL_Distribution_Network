@@ -210,3 +210,9 @@ Only substations with all 3 phases active and more than 50 readings are included
 ## Presentation
 
 📊 You can also see project presentation in additional folder in this repository.
+
+---
+
+## Open Source
+
+This project was developed during a 24-hour hackathon and is released for educational and non-commercial purposes.
