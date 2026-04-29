@@ -209,10 +209,4 @@ Only substations with all 3 phases active and more than 50 readings are included
 
 ## Presentation
 
-📊 Project presentation is included in the repository:
-
-👉 [`Download presentation`](./additional/presentation.pdf)
-
-## License
-
-Built for Sotex Solutions Hackathon 2026. Not intended for production use without additional security hardening.
+📊 You can also see project presentation in additional folder in this repository.
